@@ -37,8 +37,8 @@ The website adjusts automatically for:
 
 ## 📸 Screenshot
 
-![Blinkit Clone Screenshot](Screenshot(33).png)
-![Blinkit Clone Screenshot](Screenshot(34).png)
+![Blinkit Clone Screenshot](Screenshot.png)
+![Blinkit Clone Screenshot](Screenshot.png)
 
 ## 🎯 Purpose of the Project
 
