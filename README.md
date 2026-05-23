@@ -31,11 +31,14 @@ The website adjusts automatically for:
 ```
 ## 🌐 Live Demo
 
-(Add your deployed link here after deployment)
+ https://sisirareddy-16.github.io/BlinkitClone/
 
 ## 📸 Screenshot
 
-(Add screenshot here if you want)
+## 📸 Screenshot
+
+![Blinkit Clone Screenshot](screenshot(33).png)
+![Blinkit Clone Screenshot](screenshot(34).png)
 
 ## 🎯 Purpose of the Project
 
@@ -47,4 +50,4 @@ This project was created for practicing:
 
 ## 👨‍💻 Author
 
-Your Name
+M Sisira Reddy
