@@ -33,9 +33,9 @@ The website adjusts automatically for:
 
  https://sisirareddy-16.github.io/BlinkitClone/
 
-## 📸 Screenshot
+## 📸 https://github.com/SisiraReddy-16/BlinkitClone/blob/main/Screenshot%20(33).png
 
-## 📸 Screenshot
+## 📸 https://github.com/SisiraReddy-16/BlinkitClone/blob/main/Screenshot%20(34).png
 
 ![Blinkit Clone Screenshot](Screenshot.png)
 ![Blinkit Clone Screenshot](Screenshot.png)
